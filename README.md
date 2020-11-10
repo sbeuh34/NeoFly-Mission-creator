@@ -6,7 +6,8 @@ This package require the .Net framework (min version: 4.7.2)
 ## Where can I download?
 The last release available is located here: https://github.com/sbeuh34/NeoFly-Mission-creator/releases/tag/release-1.0.0
 
-## How it works?
+## How it works.
+ - First backup your database just in case. (I didn't faced any db issue, but if Neofly updates its missions database model it could lead to some corruption)
  - Simply unzip the folder and launch the tool with "NeoFly Mission Creator.exe" file.
  - Link your db file location into the "Database File" field if not located in the default C:\ProgramData\NeoFly\common.db
  - Copy the same info as your mate mission (departure, arrival, distance, mission Type...)
