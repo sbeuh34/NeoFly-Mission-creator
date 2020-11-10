@@ -13,4 +13,4 @@ This package require the .Net framework (min version: 4.7.2)
 When flying a tourrist or emergency mission you have to enter the Target latitude and target longitude (your mate can see them on the bing map into Neofly UI)
 
 ## If you meet any trouble.
-If you meet any trouble please create an issue or leave a comment on the GitHub Project Page.
+If you meet any trouble please create an issue on the GitHub Project Page.
