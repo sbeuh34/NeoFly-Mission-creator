@@ -3,9 +3,6 @@ A little tool you can use with Microsoft Flight Simulator career addon: NeoFly t
 
 This package require the .Net framework (min version: 4.7.2)
 
-## Where can I download?
-The last release available is located here: https://github.com/sbeuh34/NeoFly-Mission-creator/releases/tag/release-1.0.0
-
 ## How it works.
  - First backup your database just in case. (I didn't faced any db issue, but if Neofly updates its missions database model it could lead to some corruption)
  - Simply unzip the folder and launch the tool with "NeoFly Mission Creator.exe" file.
@@ -18,3 +15,10 @@ When flying a tourrist or emergency mission you have to enter the Target latitud
 
 ## If you meet any trouble.
 If you meet any trouble please create an issue on the GitHub Project Page.
+
+  
+  <br/>
+  <br/>
+  
+## If you like my work, I like coffee :)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G3F8XX7KXN6QQ)
