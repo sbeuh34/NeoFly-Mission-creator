@@ -16,9 +16,8 @@ When flying a tourrist or emergency mission you have to enter the Target latitud
 ## If you meet any trouble.
 If you meet any trouble please create an issue on the GitHub Project Page.
 
-  
-  <br/>
-  <br/>
+## License
+This software is licensed under Apache license 2.0
   
 ## If you like my work, I like coffee :)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G3F8XX7KXN6QQ)
